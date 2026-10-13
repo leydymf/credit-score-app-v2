@@ -391,6 +391,22 @@ div[data-testid="column"] {
   color: var(--gold) !important;
 }
 
+[data-testid="stIconMaterial"] {
+  font-family: 'Material Symbols Rounded' !important;
+  text-transform: none !important;
+  letter-spacing: normal !important;
+}
+
+[data-testid="stMetricValue"],
+[data-testid="stMetricValue"] div {
+  color: var(--text-primary) !important;
+}
+
+[data-testid="stMetricLabel"],
+[data-testid="stMetricLabel"] p {
+  color: var(--text-secondary, #9aa0ae) !important;
+}
+
 [data-testid="stDataFrame"] {
   border: 1px solid var(--border-main) !important;
   border-radius: var(--radius-sm) !important;
