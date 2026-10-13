@@ -74,4 +74,4 @@ El dataset `riesgo.xlsx` (12.500 clientes) lo publica el profesor del curso en [
 
 ## Autoría
 
-Leydy Macareo, Ingeniería de Sistemas, UNAB, 2026.
+Leydy Macareo, Ingeniería de Sistemas, UNAB, 2026. Proyecto del curso Ciencia de Datos.
